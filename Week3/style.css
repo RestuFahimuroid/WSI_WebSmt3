@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(#000, #f2f2f2);
+}
+
+.kalkulator {
+  width: 400px;
+  background: linear-gradient(35deg, #0c8888 40%, #35d699);
+  margin: 100px auto;
+  padding: 10px 20px 50px 20px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 25px 5px #063e42;
+}
+
+.kalkulator h2 {
+  font-family: "Courier New", Courier, monospace;
+  color: #000;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.bil {
+  width: 300px;
+  margin: 5px;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#operasi {
+  width: 252px;
+  height: 37px;
+  margin: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.opt {
+  font-size: 16px;
+  border: none;
+  width: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+}
+
+.tombol {
+  background: #ec5159;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 5px;
+  padding: 10px;
+  color: #eee;
+  font-size: 15px;
+  border-bottom: 4px solid #bf303d;
+}
+
+.brand {
+  color: #eee;
+  font-size: 11px;
+  text-decoration: none;
+  margin: 12px;
+}
+
+.judul {
+  text-align: center;
+  color: #eee;
+  font-weight: normal;
+}
+
+marquee {
+  background: #d3d1d1;
+  height: 25px;
+  line-height: 25px;
+  font-family: "Book Antiqua";
+}
